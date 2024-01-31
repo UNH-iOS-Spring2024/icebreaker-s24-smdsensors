@@ -15,3 +15,5 @@ struct DemoApp_Spring2024App: App {
         }
     }
 }
+
+// End point for app entry
