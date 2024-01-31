@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-// Main entry point for our app
 @main
 struct DemoApp_Spring2024App: App {
     var body: some Scene {
@@ -16,4 +15,3 @@ struct DemoApp_Spring2024App: App {
     }
 }
 
-// End point for app entry
